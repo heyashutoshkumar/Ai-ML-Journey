@@ -1,17 +1,17 @@
-# OOP=OBJECT ORIENTED PROGRAMMING
+# Python OOP
 
-# Learning Object-Oriented programming from scratch to the practical implementation
+## Topics Covered
 
-## Topics Covered in the OOPS:
-- Classes and Objects
-- Attributes and Methods
-- __init__ and self
-- Instance and Class Attributes
-- Instance, Class and Static Methods
-- Encapsulation
-- Inheritance
-- Method Overriding
-- Polymorphism
-- Abstraction
-- Composition
-- Special Methods
+1. Classes and Objects
+2. Attributes and Methods
+3. **init** and self
+4. Instance vs Class Attributes
+5. Instance/Class/Static Methods
+6. Encapsulation
+7. Inheritance and Method Overriding
+8. Polymorphism and Abstraction
+9. Composition and Special Methods
+
+## Goal
+
+Build a strong foundation in Python OOP for AI/ML development.
