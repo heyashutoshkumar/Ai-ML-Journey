@@ -14,10 +14,10 @@ Instances Attributes:
 """
 
 class Bank:
-    bank_name="State bank of India"
+    bank_name="State bank of India"   #This class attribute
     def __init__(self,acc,balance):
         self.acc=acc
-        self.balance=balance
+        self.balance=balance    #These are instances attributes
     def print_balace(self):
         print("Balance of the account is :",self.balance)
 
